@@ -1,0 +1,52 @@
+                                                 BRIEF
+.specification
+.objectif
+.description generale
+.description fonctionnelle
+                                      Spécifation technique
+pour la réalsation de mon portfolio j'utiliserai les languages ou technologies suivantes:
+.Symfony 4
+.Ionic
+.PhP
+.HTML5
+.CSS3
+.BOOTSTRAP3
+.JavaScript
+.Jquery
+                                          Objectif
+le but de la réalisation de ce portfolio c'est de me faire une identitée bien précise sur la personnage que j'icarne 
+pour pouvoir acceder au marché du travail sans avoir à présenter un CV détaillé .
+                                     Description génerale
+
+
+     A propos de moi
+.Dévéloppeuse web
+.Etudiante en Master2 physique chimie(UCAD)
+     Mes réalistion:
+ Projet:Meme générator
+Travail: En groupe
+les languages utilisés:
+.HTML5
+.CSS3
+.BOOTSTRAP3
+.JavaScript
+.Jquery
+.MySql
+.PhP
+Description:
+le projet consisté a créer un générateur de mémes en utilisants les languanges énumèrés au dessus.
+pour ce générateur il devait y avoir une intéraction avec la base de donnée
+soit les images proviennent de la base données,
+sinon on les enregistrés dedans apres avoir écrites dessus.
+
+ PROJET:intégration de maquette faite avec photoshop
+Travail: En groupe
+les languages utilisés:
+.HTML5
+.CSS3
+.BOOTSTRAP3
+.JavaScript
+.Jquery
+le travail consister à intégrer la maquette faite par un autre groupe en le codant,
+mais avant il fallait réaliser notre propre maquette
+avec photoshop et l'échanger avec celle d'une autre groupe 
